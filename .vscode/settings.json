@@ -1,0 +1,8 @@
+{
+    "notebook.formatOnCellExecution": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.diff.overviewRuler": true,
+    "notebook.diff.ignoreOutputs": true,
+    "terminal.integrated.allowMnemonics": true,
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true
+}
