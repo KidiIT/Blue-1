@@ -4,5 +4,8 @@
     "notebook.diff.overviewRuler": true,
     "notebook.diff.ignoreOutputs": true,
     "terminal.integrated.allowMnemonics": true,
-    "testing.automaticallyOpenPeekViewDuringAutoRun": true
+    "testing.automaticallyOpenPeekViewDuringAutoRun": true,
+    "github.copilot.advanced": {
+        "authProvider": "github"
+    }
 }
